@@ -29,5 +29,5 @@
 
 Service runs on port 8000 by default.
 
-- Organizations endpoint: http://localhost:8000/api/v1/organizations
-- API docs: http://localhost:8000/api/doc
+- Organizations endpoint: [http://localhost:8000/api/v1/organizations](http://localhost:8000/api/v1/organizations)
+- API docs: [http://localhost:8000/api/doc](http://localhost:8000/api/doc)

@@ -3,27 +3,27 @@
 
 1. Install requirements
 
-```
-pip install -r requirements.txt
-```
+    ```
+    pip install -r requirements.txt
+    ```
 
 2. Create a database
 
-```
-psql -U postgres -h localhost org -c 'CREATE DATABASE org'
-```
+    ```
+    psql -U postgres -h localhost org -c 'CREATE DATABASE org'
+    ```
 
 3. Initialize the database
 
-```
-psql -U postgres -h localhost org -f org.sql
-```
+    ```
+    psql -U postgres -h localhost org -f org.sql
+    ```
 
 4. Start the service
 
-```
-python org.py
-```
+    ```
+    python org.py
+    ```
 
 5. Play with the service
 
